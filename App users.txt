@@ -1,0 +1,20 @@
+						Uses
+
+
+Being a user, I should be able to login/signup.
+Being a user, I should receive a 2-FA notification on my email I have provided for verification.
+Being a user, I should be able to see 2 screens once I login - Find a friend, share.
+Being a user, I should be able to search for people in find a friend to talk to.
+Being a user, I should see three dots next to each person's name which when I click I should see : about (which will take me to the profile of that person), message (which will take me to message screen)
+Being a user, I should be able to filter my search based on my age - 6-12; 13-15;16-18.
+Being a user, I should be able to report someone if they are being toxic.
+Being a user, I should be able to share photos and videos for the community to see under the share option.
+Being a user, I should receive notifications which tell me whenever someone posts something.
+Being a user, I should be able to change my profile containing my profile picture and a description about me.
+Being a user, I should be able to change my settings where I can change password, and username.
+
+Targets differently abled children.
+They can share videos/photos, chat and find people.
+Under find friends : Age filter to reduce the scope of people one is looking for.
+Enable 2-FA
+
